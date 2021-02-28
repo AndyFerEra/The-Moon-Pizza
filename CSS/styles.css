@@ -1,0 +1,106 @@
+*{
+	background: #DCF8C6;
+}
+h1{
+	background: yellow;
+	color: black;
+	
+}
+
+.Primero{
+	position: relative;
+	left: 90px;
+	width: 500px;
+	right: 200px;
+}
+.manito{
+	position: absolute;
+	left:740px; 
+	top:165px;
+	width:400px; 
+	right:400px;
+}
+.corazon{
+	position: absolute;
+	left: 90px;
+	top: 900px;
+	width: 500px;
+	right: 500px;
+
+}
+.Segundo{
+	position: relative;
+	left: 730px;
+	width: 500px;
+	right: 200px;
+}
+.Tercero{
+	position: relative;
+	left: 90px;
+	width: 500px;
+	right: 200px;
+}
+.frase{
+	position: absolute;
+	color: black;
+	font:bold 30px Times New Roman;
+	top: 1400px;
+	left: 650px;
+	width: 400px;
+	right: auto;
+}
+
+.moto{
+	position: absolute;
+	top: 1550px;
+	left: 850px;
+	width: 400px;
+	right: 400px;
+}
+.Pie{
+	position: relative;
+	font: bold 15px Times New Roman;
+	color: white;
+	top: 25px;
+	padding: 0px;
+	background: black;
+}
+
+footer a img[title="fb"]{
+	position: relative;
+	left: 160px;
+	width: 40px;
+	right: 40px;
+	background: black;
+}
+footer a img[title="ins"]{
+	position: relative;
+	left: 180px;
+	width:60px; 
+	right:60px;
+	background: black;
+}
+/*.Pie{
+	padding-top: 100px;
+	padding-bottom: 10px;
+	padding-left: 855px;
+	background: white;
+	color:black;
+	font: bold 14px verdana;
+}
+.fb{
+	position: absolute;
+	left: 100px;
+	top: 2090px;
+	width:50px; 
+	right:50px;
+	background: white;
+}
+.ins{
+	position: absolute;
+	left: 200px;
+	top: 2088px;
+	width:80px; 
+	right:80px;
+	background: white;
+}*/

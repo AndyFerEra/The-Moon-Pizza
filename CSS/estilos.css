@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: black;
+	
+}
+
+.img{
+
+	width: 220px;
+	height: 220px;
+	margin-top: 20px;
+}
+
+p{	
+	color:white;
+	font: bold 30px verdana;
+	width: 800px;
+	text-align: center;
+	position: absolute;
+	top: 90px;
+	left: 500px;
+}
+
+#boton{
+	font: bold 65px Times New Roman;
+	text-decoration: none;
+	background:red; 
+	position: absolute;
+	top: 450px;
+	left: 950px;
+	
+}
+
+a{
+	color: white;
+	text-decoration: none;
+
+
+}
