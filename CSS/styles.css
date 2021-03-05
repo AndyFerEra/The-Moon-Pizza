@@ -80,7 +80,11 @@ footer a img[title="ins"]{
 	right:60px;
 	background: black;
 }
+a{
+	background-color: black;
+}
 /*.Pie{
+
 	padding-top: 100px;
 	padding-bottom: 10px;
 	padding-left: 855px;
