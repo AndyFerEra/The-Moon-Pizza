@@ -7,14 +7,27 @@ body{
 	background: black;
 	
 }
-
 .img{
 
 	width: 220px;
 	height: 220px;
 	margin-top: 20px;
+	animation-name: vueltita;
+	animation-duration: 5s;
+	animation-timing-function: linear;
 }
-
+@keyframes vueltita{
+	0%{
+		transform: rotate(0deg);
+	}
+	50%{
+		margin-left: 220px;
+		transform: rotate(360deg);
+	}
+	100%{
+		transform: rotate(0deg);
+	}
+}
 p{	
 	color:white;
 	font: bold 30px verdana;
@@ -33,6 +46,10 @@ p{
 	top: 450px;
 	left: 950px;
 	
+}
+#boton a:hover{
+	background-color: gold;
+	color: black;
 }
 
 a{
