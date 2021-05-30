@@ -1,59 +1,65 @@
-*{
-	background: #DCF8C6;
+body{
+	padding: 0px;
+	border: 0px;
+	background: #ccc/*#DCF8C6*/;
 }
 h1{
-	background: yellow;
+	background: #DCF8C6;
 	color: black;
+	width: 400px;
 	
 }
 
 .Primero{
 	position: relative;
-	left: 90px;
-	width: 500px;
-	right: 200px;
+	left: 50px;
+	width: 700px;
+	margin: 0px auto;
+	/*right: 200px;*/
 }
 .manito{
 	position: absolute;
-	left:740px; 
-	top:165px;
+	left:900px; 
+	top: 250px;
 	width:400px; 
 	right:400px;
 }
-.corazon{
+/*.corazon{
 	position: absolute;
 	left: 90px;
 	top: 900px;
 	width: 500px;
 	right: 500px;
 
-}
+}*/
 .Segundo{
 	position: relative;
-	left: 730px;
-	width: 500px;
-	right: 200px;
+	top: 20px;
+	margin:0px auto;
+	left: 580px;
+	width:700px;
+	/*right: 200px;*/
 }
-.Tercero{
+/*.Tercero{
 	position: relative;
 	left: 90px;
 	width: 500px;
 	right: 200px;
-}
+}*/
 .frase{
 	position: absolute;
 	color: black;
 	font:bold 30px Times New Roman;
-	top: 1400px;
-	left: 650px;
+	top: 1100px;
+	left: 150px;
 	width: 400px;
 	right: auto;
 }
 
 .moto{
 	position: absolute;
-	top: 1550px;
-	left: 850px;
+	top: 1300px;
+	left: 20px;
 	width: 400px;
 	right: 400px;
 }
@@ -61,7 +67,7 @@ h1{
 	position: relative;
 	font: bold 15px Times New Roman;
 	color: white;
-	top: 25px;
+	top: 30px;
 	padding: 0px;
 	background: black;
 }
